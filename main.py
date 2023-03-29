@@ -6,9 +6,9 @@ import tkinter.messagebox as tkMessageBox
 
 
 # Spotify API credentials
-CLIENT_ID = 'your_client_id'
-CLIENT_SECRET = 'your_client_secret'
-REDIRECT_URI = 'your_redirect_URI'
+CLIENT_ID = 'Please insert your client ID: '
+CLIENT_SECRET = 'Please insert your client Secret: '
+REDIRECT_URI = 'Please insert your client Secret: '
 
 # Authenticate with Spotify API
 sp = spotipy.Spotify(
