@@ -8,4 +8,7 @@ Note that this code assumes you have already created a Spotify developer account
 Be sure to update the playlist_name and new_playlist_name variables to match your own playlist names.
 Also, the redirect_URI should be defined (ex. your localhost)
 
-Enjoy!
+This is just a work in progress.
+New implementations witl come.
+
+
