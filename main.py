@@ -65,6 +65,7 @@ new_playlist_desc = 'A shuffled version of my existing playlist'
 new_playlist = sp.user_playlist_create(sp.current_user()['id'], new_playlist_name, public=False, description=new_playlist_desc)
 sp.playlist_add_items(new_playlist['id'], new_tracks)
 
+
 # Display a message box indicating success
 root = tk.Tk()
 root.withdraw()
