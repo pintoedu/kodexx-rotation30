@@ -11,4 +11,3 @@ Also, the redirect_URI should be defined (ex. your localhost)
 This is just a work in progress.
 New implementations witl come.
 
-
