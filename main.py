@@ -1,5 +1,4 @@
 import random
-
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import tkinter as tk
