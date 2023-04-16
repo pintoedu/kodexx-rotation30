@@ -4,7 +4,6 @@ from spotipy.oauth2 import SpotifyOAuth
 import tkinter as tk
 import tkinter.messagebox as tkMessageBox
 
-
 # Spotify API credentials
 CLIENT_ID = 'Insert your client ID'
 CLIENT_SECRET = 'Insert your client Secret'
