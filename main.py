@@ -34,6 +34,9 @@ tracks = results['items']
 # Keep track of artists played in previous 30 tracks
 prev_artists = set()
 
+
+
+
 # Loop until we have at least 30 tracks in the new playlist
 new_tracks = []
 while len(new_tracks) < 30:
