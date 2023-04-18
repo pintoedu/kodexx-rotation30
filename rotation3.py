@@ -3,16 +3,10 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Replace these with your own credentials and username
-# client_id = "your_client_id"
-# client_secret = "your_client_secret"
-# redirect_uri = "your_redirect_uri"
-# username = "your_username"
-
-# Your credentials from Spotify for Developers
-client_id = "8b014f1c354b4570a817c1a1c5bc6820"
-client_secret = "03d65b45b4a44ac9ab31243615b2bb2c"
-redirect_uri = "http://localhost:8000/callback/"
-username = "voxxis"
+client_id = "your_client_id"
+client_secret = "your_client_secret"
+redirect_uri = "your_redirect_uri"
+username = "your_username"
 
 # Authenticate and create Spotipy client
 auth_manager = SpotifyOAuth(client_id=client_id, client_secret=client_secret, redirect_uri=redirect_uri, scope="playlist-read-private playlist-modify-public")
