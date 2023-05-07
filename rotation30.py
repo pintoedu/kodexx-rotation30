@@ -60,7 +60,3 @@ if source_playlist_id is not None:
         print(f"{idx + 1}. {track_name} - {artists}")
 else:
     print(f"Playlist '{source_playlist_name}' not found.")
-    
-    
-    
-    
