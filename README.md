@@ -8,7 +8,7 @@ Note that this code assumes you have already created a Spotify developer account
 To do so, be sure to update the client_id, client_secret and username specs directly on the code.
 Also, the redirect_uri should be defined (ex. your localhost)
 
-This is a work in progress (v.a01).
+This is a work in progress.
 New implementations will come.
 
 
