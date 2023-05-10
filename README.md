@@ -9,6 +9,6 @@ To do so, be sure to update the client_id, client_secret and username specs dire
 Also, the redirect_uri should be defined (ex. your localhost)
 
 This is a work in progress.
-New implementations will come.
+New implementations will follow.
 
 
