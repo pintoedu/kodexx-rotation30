@@ -26,7 +26,6 @@ for playlist in playlists["items"]:
         
         
         
-
 if source_playlist_id is not None:
     # Fetch all tracks from the source playlist
     results = sp.playlist_items(source_playlist_id, fields="items.track.name,items.track.id,items.track.artists", additional_types=("track",))
