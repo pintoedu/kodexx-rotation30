@@ -45,6 +45,8 @@ if source_playlist_id is not None:
 
             if len(unique_tracks) >= 30:
                 break
+                
+                
 
     # Create a new playlist with the given name
     new_playlist = sp.user_playlist_create(username, new_playlist_name, public=True)
