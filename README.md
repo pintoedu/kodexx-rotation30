@@ -10,6 +10,3 @@ Also, the redirect_uri should be defined (ex. your localhost)
 
 This is a work in progress.
 New implementations will follow.
-
-
-
