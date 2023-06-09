@@ -23,8 +23,7 @@ for playlist in playlists["items"]:
     if playlist["name"] == source_playlist_name:
         source_playlist_id = playlist["id"]
         break
-        
-        
+              
         
         
         
