@@ -24,7 +24,6 @@ for playlist in playlists["items"]:
         source_playlist_id = playlist["id"]
         break
               
-
         
         
 if source_playlist_id is not None:
