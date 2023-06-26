@@ -4,7 +4,6 @@ from spotipy.oauth2 import SpotifyOAuth
 
 
 
-
 # Replace these with your own credentials and username
 client_id = "your_client_id"
 client_secret = "your_client_secret"
